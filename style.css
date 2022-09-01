@@ -135,7 +135,7 @@ p{
         display: block;
         font-size: 1.2rem;
         width: 100%;
-        overflow: hidden;
+        overflow: scroll;
     }
     .container{
         width: 100%;

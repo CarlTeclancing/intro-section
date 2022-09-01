@@ -286,7 +286,7 @@ p{
         top: 0;
         right: 0;
         padding-top: 100px;
-        overflow-y: hidden;
+        overflow-x: hidden;
         display: none;
         transition: 500ms;
     }
